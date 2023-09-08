@@ -11,6 +11,7 @@
 		@php
 			$i = 1;
 		@endphp
+
 		@foreach ($data as $d)
 			<div class="col-md-6">
 				<div class="post">

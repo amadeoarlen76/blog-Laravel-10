@@ -14,6 +14,7 @@ class BlogController extends Controller
   public function index(Posts $posts)
   {
     $data = $posts->OrderBy('created_at', 'desc')->get();
+    
     $category_widget = Category::all();
     $posts_widget = Posts::latest()->paginate(4);
     $tag = Tags::all();
