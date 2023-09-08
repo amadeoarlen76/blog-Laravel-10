@@ -1,0 +1,4 @@
+Catatan:
+
+Template Frontend: bagian berita
+Template Backend: edit berita
