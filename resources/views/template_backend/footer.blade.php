@@ -4,7 +4,7 @@
     @if (date('Y') == '2019')
       {{ date('Y') }}
     @else
-      2019 - {{ date('Y') }}
+      2023- {{ date('Y') }}
     @endif
     <div class="bullet"></div> Design By <a href="https://github.com/adhiariyadi/">Adhi Ariyadi</a>
     
