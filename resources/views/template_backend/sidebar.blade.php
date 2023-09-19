@@ -8,7 +8,7 @@
     </div>
     <ul class="sidebar-menu">
       <li class="menu-header">Dashboard</li>
-      <li class=active><a class="nav-link" href="{{ url('/home') }}"><i class="fas fa-fire"></i> <span>Dashboard</span></a></li>
+      <li class=active><a class="nav-link" href="{{ url('/dash') }}"><i class="fas fa-fire"></i> <span>Dashboard</span></a></li>
       <li class="menu-header">Berita</li>
       <li class="dropdown">
         <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-book-open"></i> <span>Post</span></a>

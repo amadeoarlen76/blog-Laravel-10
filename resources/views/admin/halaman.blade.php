@@ -8,7 +8,7 @@
             <!-- small box -->
             <div class="small-box bg-success">
               <div class="inner text-center">
-                <h3>4</h3>
+                <h3>3</h3>
                 <p>Pengguna</p>
               </div>
               <div class="icon">
